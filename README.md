@@ -1,7 +1,23 @@
 # AndroidViewModel demo
 Simple app which shows list of "Saved WiFi networks" using [AndroidViewModel](https://developer.android.com/reference/android/arch/lifecycle/AndroidViewModel.html) which is subclass of ViewModel to survive configuration change.
 
-Made for **Android Architecture Components Course - Deep Dive** on caster.io which is coming soon!
+Made for **Android Architecture Components Course - Deep Dive** on [Caster.io](https://caster.io/)
+
+## Learn Architecture Components
+Trying to learn the new Architecture Components. Feel free to check them out to learn more.
+
+### Caster.io Course
+- [Android Architecture Components - A Deep Dive - Caster.io](https://caster.io/courses/android-architecture-components-deep-dive) 📺
+
+### Podcast
+- [Android Architecture Components Podcast on Fragmented](http://fragmentedpodcast.com/episodes/115/) 🎤
+
+### Blog
+- [Introduction to Architecture Components](https://medium.com/@aky/introduction-to-android-architecture-components-22b8c84f0b9d)
+- [Exploring ViewModel Architecture component](https://medium.com/@aky/exploring-viewmodel-architecture-component-5d60828172f9)
+- [Exploring LiveData Architecture component](https://medium.com/@aky/exploring-livedata-architecture-component-f9375d3644ee)
+- [Exploring Room Architecture component](https://medium.com/@aky/exploring-room-architecture-component-6db807094241)
+- [Building Modern Android Apps with Architecture Guidelines](https://medium.com/@aky/building-modern-apps-using-the-android-architecture-guidelines-3238fff96f14)
 
 ## Component Demonstrated
 - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel.html)
